@@ -20,3 +20,6 @@ Dans le projet commun P7demo :
 ## Exemple d'image (goudot)
 
 ![mon nuage Points](img/nuagePoints.png)
+
+
+- Petit ajout de quentin 
