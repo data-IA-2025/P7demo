@@ -1,6 +1,6 @@
 # P7demo
 
-Modifications dans ma branche (`@ppa-go-git-hub`)
+Modifications dans ma branche (`ppa-go-github`)
 
 ## Insertion d'image en MarkDown
 
