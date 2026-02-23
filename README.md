@@ -14,6 +14,8 @@ Dans le projet commun P7demo :
 - Mettre à jour le README avec un graphique
 
 - Commit du README & image - pas le notebook modifié par chacun
+![alt text](image.png)
+Mise à jour Julie
 
 - faire une pull request sur main
 
